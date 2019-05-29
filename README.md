@@ -13,7 +13,7 @@ Self-hosted Localization Management Platform built with Go and Angular 2.
 
 > NOTE: the project is no longer mantained, we suggest you look at [traduora](https://github.com/traduora/traduora) as an alternative.
 
-<img src="https://parrot-translate.github.io/parrot.github.io/images/parrot-screenshot-001.png" style="width: 720px;"/>
+<img src="https://anthonynsimon.com/img/misc/parrot.png" style="width: 720px;"/>
 
 ## Features
 
